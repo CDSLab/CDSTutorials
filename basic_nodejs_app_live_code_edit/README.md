@@ -63,7 +63,9 @@ This will take care of your Sign Up and Log In into the Bluemix portal.
 
     ![Alt Text](images/hello_world_title.png)
 
-14. The code starter from the Bluemix boilerplate contains sample code that shows how to connect to Cloudant database. The **app.js** file contains code for the sample starter app.
+14. The starter code from the Bluemix boilerplate contains sample code that shows how to connect to Cloudant database. The **app.js** file contains the sample code to create a database in Cloudant, upload files, read and write data.
+
+Please refer to the [Cloudant Documentation](https://www.ng.bluemix.net/docs/services/Cloudant/index.html) to learn more about it.
     
 From the code editor, click on **app.js** file to load the file in the editor. Continue implementing your cool app :)
     ![Alt Text](images/load_app_file.png)
