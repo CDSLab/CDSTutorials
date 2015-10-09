@@ -23,7 +23,6 @@ This will take care of your Sign Up and Log In into the Bluemix portal.
    ![Alt Text](images/staging_page_overview_button.png)
 
 **NOTE:** If you clicked on the URL you will see the following web page.
-
     ![Alt Text](images/app_preview.png)
 
 5. Click on the **ADD GIT** button to add IBM Bluemix DevOps Services to your app.
